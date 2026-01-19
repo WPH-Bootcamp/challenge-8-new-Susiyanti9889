@@ -22,10 +22,12 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+<<<<<<< HEAD
 
 # Environment variables
-.env
-.env.local
-.env.development
-.env.production
-.env.test
+=======
+>>>>>>> 1ae471367a1c93233d26bb62b35b77fdcd901288
+config.bat
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat

@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/176-GeOd)
+>>>>>>> 1ae471367a1c93233d26bb62b35b77fdcd901288
 # Challenge 8 - Slicing Figma Movie App with Tanstack Query
 
 # Description

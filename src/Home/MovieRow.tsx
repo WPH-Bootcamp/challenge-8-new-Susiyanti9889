@@ -2,7 +2,7 @@ import { useRef } from "react";
 import { useQuery } from "@tanstack/react-query";
 import { MovieCard } from "./MovieCard";
 
-const API_KEY = "62742e1835e3925d81a88a5fbf23c461";
+const API_KEY = import.meta.env.VITE_API_KEY;
 
 type Props = {
   title: string;

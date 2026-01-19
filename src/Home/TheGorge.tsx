@@ -1,6 +1,6 @@
 import { useQuery } from "@tanstack/react-query";
 
-const API_KEY = "62742e1835e3925d81a88a5fbf23c461";
+const API_KEY = import.meta.env.VITE_API_KEY;
 
 const fetchTheGorge = async () => {
   const res = await fetch(
